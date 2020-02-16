@@ -1,0 +1,1 @@
+# -void-__fastcall-hook-REGISTERS-float-r-float-g-float-b-CALL_ORIG-ecx-edx
